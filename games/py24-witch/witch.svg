@@ -1,0 +1,1622 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   sodipodi:docbase="/home/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch"
+   sodipodi:docname="witch.svg"
+   inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.7878035"
+     inkscape:cx="460.46009"
+     inkscape:cy="76.092149"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1089"
+     inkscape:window-height="800"
+     inkscape:window-x="118"
+     inkscape:window-y="22" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 51.069633,358.37993 L 37.226457,412.02223 L 49.339236,386.64308 L 46.455241,403.94705 L 55.684025,386.06628 L 63.182412,421.82782 L 74.141585,386.64308 L 80.486375,398.75586 L 79.909575,381.45189 L 90.291961,405.10065 L 81.063175,354.34234 L 51.069633,358.37993 z "
+       id="path13097"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-standing.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5098"
+       sodipodi:cx="290.939"
+       sodipodi:cy="312.85645"
+       sodipodi:rx="21.455679"
+       sodipodi:ry="21.741755"
+       d="M 312.39467 312.85645 A 21.455679 21.741755 0 1 1  269.48332,312.85645 A 21.455679 21.741755 0 1 1  312.39467 312.85645 z"
+       transform="translate(-223.60996,57.81819)"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-standing.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 17.551875,533.43302 C 17.551875,533.43302 41.582235,503.39507 47.589825,478.50648 C 53.597415,453.61789 58.722415,393.20154 58.722415,393.20154 L 74.170505,392.31895 C 74.170505,392.31895 73.622715,453.33182 81.060685,484.51407 C 88.498651,515.69632 97.653071,532.57479 97.653071,532.57479 L 81.918905,517.41278 L 71.906255,531.43049 L 58.460705,513.12164 L 43.870835,531.43049 L 39.865775,522.27607 L 17.551875,533.43302 z "
+       id="path2171"
+       sodipodi:nodetypes="csccsccccccc"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-standing.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 54.546843,547.42637 L 50.541783,513.95551"
+       id="path3144"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-standing.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 58.551903,547.42637 L 50.255703,547.42637 L 50.827853,554.00611 C 50.827853,554.00611 46.536723,550.00105 43.389893,550.00105 C 40.243053,550.00105 36.524073,553.72003 36.524073,553.72003 L 36.810143,556.86686 L 59.696203,556.58079 L 58.551903,547.42637 z "
+       id="path3148"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-standing.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 68.190393,547.62858 L 72.195453,514.15772"
+       id="path5094"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-standing.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 64.185333,547.62858 L 72.481533,547.62858 L 71.909383,554.20832 C 71.909383,554.20832 76.200513,550.20326 79.347343,550.20326 C 82.494183,550.20326 86.213163,553.92224 86.213163,553.92224 L 85.927093,557.06907 L 63.041033,556.783 L 64.185333,547.62858 z "
+       id="path5096"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-standing.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 27.850605,362.37845 L 99.941681,354.08225 L 74.194865,343.78352 L 61.321455,283.70762 L 52.453105,347.21643 L 27.850605,362.37845 z "
+       id="path6069"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-standing.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path8011"
+       sodipodi:cx="264.22824"
+       sodipodi:cy="285.78342"
+       sodipodi:rx="0.50691271"
+       sodipodi:ry="0.50691271"
+       d="M 264.73515 285.78342 A 0.50691271 0.50691271 0 1 1  263.72133,285.78342 A 0.50691271 0.50691271 0 1 1  264.73515 285.78342 z"
+       transform="translate(-207.33252,79.88239)"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-standing.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path8021"
+       sodipodi:cx="264.22824"
+       sodipodi:cy="285.78342"
+       sodipodi:rx="0.50691271"
+       sodipodi:ry="0.50691271"
+       d="M 264.73515 285.78342 A 0.50691271 0.50691271 0 1 1  263.72133,285.78342 A 0.50691271 0.50691271 0 1 1  264.73515 285.78342 z"
+       transform="translate(-189.02835,79.83758)"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-standing.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 66.400355,371.11513 C 66.400355,371.11513 68.301275,374.66352 68.808195,377.07136 C 69.315105,379.47919 69.061645,379.47919 69.061645,379.47919 L 65.639985,379.09901"
+       id="path8023"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-standing.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 56.895735,382.39394 C 56.895735,382.39394 62.725235,386.32251 66.780535,386.19579 C 70.835835,386.06906 76.665335,382.26721 76.665335,382.26721"
+       id="path8025"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-standing.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 58.724333,393.91752 C 58.724333,393.91752 47.799713,412.71789 40.201913,424.24718 C 33.282403,434.7472 27.802193,452.23592 27.802193,452.23592 L 38.850333,461.78627 C 38.850333,461.78627 43.419423,440.61507 46.689913,428.69387 C 51.174743,412.34627 59.363703,395.62213 59.363703,395.62213"
+       id="path9000"
+       sodipodi:nodetypes="csccsc"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-standing.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 28.846643,453.42948 C 26.057303,459.62785 18.083893,467.53339 24.197683,473.291 C 28.436863,476.98279 34.139873,471.8371 35.654373,464.49204 C 35.654373,464.49204 35.677073,473.53437 37.684153,473.13067 C 41.147853,472.43398 37.781783,461.08817 37.781783,461.08817"
+       id="path9971"
+       sodipodi:nodetypes="cccsc"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-standing.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 74.091963,392.63018 C 74.091963,392.63018 85.016583,411.43055 92.614381,422.95984 C 99.533891,433.45986 105.0141,450.94858 105.0141,450.94858 L 93.965961,460.49893 C 93.965961,460.49893 89.396871,439.32773 86.126383,427.40653 C 81.641553,411.05893 73.452593,394.33479 73.452593,394.33479"
+       id="path9979"
+       sodipodi:nodetypes="csccsc"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-standing.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 103.96965,452.14214 C 106.75899,458.34051 114.7324,466.24605 108.61861,472.00366 C 104.37943,475.69545 98.676421,470.54976 97.161921,463.2047 C 97.161921,463.2047 97.139221,472.24703 95.132141,471.84333 C 91.668441,471.14664 95.034511,459.80083 95.034511,459.80083"
+       id="path9981"
+       sodipodi:nodetypes="cccsc"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-standing.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g22297"
+       transform="translate(-96.951283,-130.44355)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-hello.png"
+         sodipodi:nodetypes="cc"
+         id="path21251"
+         d="M 1163.9717,432.48053 C 965.51386,468.32534 929.17552,475.24693 929.17552,475.24693"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-hello.png"
+         sodipodi:nodetypes="cssccssccccccc"
+         id="path21253"
+         d="M 996.73151,501.28107 C 996.73151,501.28107 1000.8679,495.57258 1004.0313,478.52264 C 1006.4439,465.51894 963.84587,483.35132 962.07394,457.71996 C 960.30815,432.17755 1002.0572,376.78634 1002.0572,376.78634 L 1023.6252,374.15522 C 1023.6252,374.15522 1004.3399,419.90682 1006.243,441.21465 C 1007.8986,459.75136 1029.3459,434.38679 1040.0601,444.76113 C 1063.2348,467.20074 1083.6825,498.90066 1083.6825,498.90066 L 1064.5234,485.26083 L 1051.0859,499.27854 L 1037.6403,480.96969 L 1023.0505,499.27854 L 1019.0454,490.12412 L 996.73151,501.28107 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-hello.png"
+         sodipodi:nodetypes="cc"
+         id="path21255"
+         d="M 1017.8716,500.13994 L 1020.4711,457.93984"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-hello.png"
+         id="path21257"
+         d="M 1014.4805,497.14641 L 1022.3228,499.85288 L 1019.6354,505.88599 C 1019.6354,505.88599 1024.9984,503.49994 1027.973,504.52653 C 1030.9477,505.55312 1033.25,510.28188 1033.25,510.28188 L 1031.953,513.16322 L 1010.4123,505.42669 L 1014.4805,497.14641 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-hello.png"
+         sodipodi:nodetypes="cc"
+         id="path21259"
+         d="M 1030.7268,501.58858 L 1032.9717,476.98765"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-hello.png"
+         id="path21261"
+         d="M 1027.3584,500.08927 L 1035.367,502.25507 L 1033.0969,508.45728 C 1033.0969,508.45728 1038.2848,505.71134 1041.3225,506.53285 C 1044.3603,507.35436 1046.9794,511.91525 1046.9794,511.91525 L 1045.8817,514.87828 L 1023.864,508.62751 L 1027.3584,500.08927 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-hello.png"
+         transform="matrix(0.7200121,-0.6939615,0.6939615,0.7200121,470.80066,470.07541)"
+         id="g21269">
+        <path
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 442.31556,320.11521 C 442.31556,320.11521 438.27564,341.48061 434.95115,354.88205 C 431.92345,367.0871 432.58033,385.40257 432.58033,385.40257 L 446.17835,390.72839 C 446.17835,390.72839 443.43598,369.24408 442.54967,356.91421 C 441.33425,340.00621 443.48612,321.50958 443.48612,321.50958"
+           id="path21271"
+           sodipodi:nodetypes="csccsc" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 433.96265,386.18016 C 433.39678,392.95364 428.5113,403.06328 436.19355,406.45616 C 441.42021,408.52543 445.08401,401.7742 444.06593,394.34405 C 444.06593,394.34405 447.0987,402.86265 448.85676,401.81358 C 451.89072,400.00315 444.93831,390.426 444.93831,390.426"
+           id="path21273"
+           sodipodi:nodetypes="cccsc" />
+      </g>
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-hello.png"
+         id="path21277"
+         d="M 952.80061,460.15305 C 952.80061,460.15305 948.76302,468.22824 941.84143,469.38183 C 934.91984,470.53543 882.43114,465.34424 882.43114,465.34424 L 897.42791,469.95863 L 884.73833,471.11223 L 897.42791,477.45702 L 887.04553,482.07141 L 909.54069,477.45702 L 894.54391,487.8394 L 907.81029,487.8394 L 895.69751,494.76099 L 915.88548,488.4162 L 905.50309,499.37538 C 905.50309,499.37538 934.91984,479.76422 941.84143,477.45702 C 948.76302,475.14982 960.8758,478.61062 960.8758,478.61062 L 955.10781,473.99623 L 958.5686,472.84263 L 952.22381,467.07464 L 954.53101,463.03704 L 950.49342,464.76744 L 952.80061,460.15305 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-hello.png"
+         id="path21279"
+         d="M 997.06155,340.71531 L 983.21838,394.35761 L 995.33116,368.97846 L 992.44716,386.28243 L 1001.676,368.40166 L 1009.1743,404.1632 L 1020.1335,368.97846 L 1026.4783,381.09124 L 1025.9015,363.78727 L 1036.2839,387.43603 L 1027.0551,336.67772 L 997.06155,340.71531 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-hello.png"
+         transform="translate(722.38196,40.15357)"
+         d="M 312.39467 312.85645 A 21.455679 21.741755 0 1 1  269.48332,312.85645 A 21.455679 21.741755 0 1 1  312.39467 312.85645 z"
+         sodipodi:ry="21.741755"
+         sodipodi:rx="21.455679"
+         sodipodi:cy="312.85645"
+         sodipodi:cx="290.939"
+         id="path21281"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-hello.png"
+         sodipodi:nodetypes="cccccc"
+         id="path21283"
+         d="M 973.84253,344.71383 L 1045.9336,336.41763 L 1020.1868,326.1189 L 1007.3134,266.043 L 998.44503,329.55181 L 973.84253,344.71383 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-hello.png"
+         transform="translate(738.6594,62.21777)"
+         d="M 264.73515 285.78342 A 0.50691271 0.50691271 0 1 1  263.72133,285.78342 A 0.50691271 0.50691271 0 1 1  264.73515 285.78342 z"
+         sodipodi:ry="0.50691271"
+         sodipodi:rx="0.50691271"
+         sodipodi:cy="285.78342"
+         sodipodi:cx="264.22824"
+         id="path21285"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-hello.png"
+         transform="translate(756.96357,62.17296)"
+         d="M 264.73515 285.78342 A 0.50691271 0.50691271 0 1 1  263.72133,285.78342 A 0.50691271 0.50691271 0 1 1  264.73515 285.78342 z"
+         sodipodi:ry="0.50691271"
+         sodipodi:rx="0.50691271"
+         sodipodi:cy="285.78342"
+         sodipodi:cx="264.22824"
+         id="path21287"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-hello.png"
+         id="path21289"
+         d="M 1012.3923,353.45051 C 1012.3923,353.45051 1014.2932,356.9989 1014.8001,359.40674 C 1015.307,361.81457 1015.0536,361.81457 1015.0536,361.81457 L 1011.6319,361.43439"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-hello.png"
+         id="path21291"
+         d="M 1002.8877,364.72932 C 1002.8877,364.72932 1008.7172,368.65789 1012.7725,368.53117 C 1016.8278,368.40444 1022.6573,364.60259 1022.6573,364.60259"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-hello.png"
+         sodipodi:nodetypes="csccsc"
+         id="path21293"
+         d="M 996.14985,397.66791 C 996.14985,397.66791 985.22523,378.86754 977.62743,367.33825 C 970.70792,356.83823 965.22771,339.34951 965.22771,339.34951 L 976.27585,329.79916 C 976.27585,329.79916 980.84494,350.97036 984.11543,362.89156 C 988.60026,379.23916 996.78922,395.9633 996.78922,395.9633"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-hello.png"
+         sodipodi:nodetypes="cccsc"
+         id="path21295"
+         d="M 966.27216,338.15595 C 963.48282,331.95758 955.50941,324.05204 961.6232,318.29443 C 965.86238,314.60264 971.56539,319.74833 973.07989,327.09339 C 973.07989,327.09339 973.10259,318.05106 975.10967,318.45476 C 978.57337,319.15145 975.2073,330.49726 975.2073,330.49726"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-hello.png"
+         sodipodi:nodetypes="ccssscc"
+         id="path21303"
+         d="M 1044.1343,352.09173 L 1071.1707,325.05536 C 1071.1707,325.05536 1047.8075,285.9478 1080.0605,251.64908 C 1102.4862,227.80109 1189.5039,222.35675 1221.881,253.85503 C 1246.9945,278.28696 1232.2828,311.30915 1209.5804,329.39685 C 1171.0754,360.07499 1085.4841,340.95911 1085.4841,340.95911 L 1044.1343,352.09173 z "
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g26221"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cc"
+         id="path20200"
+         d="M 10.189882,172.66843 C 208.64776,208.51325 244.9861,215.43483 244.9861,215.43483"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cssccssccccccc"
+         id="path20202"
+         d="M 177.43011,241.46898 C 177.43011,241.46898 173.29368,235.76048 170.13034,218.71054 C 167.71772,205.70684 210.31575,223.53923 212.08768,197.90786 C 213.85347,172.36545 172.10439,116.97424 172.10439,116.97424 L 150.53645,114.34312 C 150.53645,114.34312 169.82171,160.09472 167.91859,181.40255 C 166.26297,199.93926 144.81571,174.57469 134.10152,184.94904 C 110.9268,207.38864 90.479092,239.08857 90.479092,239.08857 L 109.63817,225.44873 L 123.07573,239.46644 L 136.52128,221.15759 L 151.11115,239.46644 L 155.11621,230.31203 L 177.43011,241.46898 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cc"
+         id="path20204"
+         d="M 156.28997,240.32784 L 153.69053,198.12775"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         id="path20206"
+         d="M 159.68114,237.33431 L 151.83882,240.04079 L 154.52618,246.07389 C 154.52618,246.07389 149.16324,243.68784 146.18858,244.71444 C 143.2139,245.74103 140.91162,250.46979 140.91162,250.46979 L 142.20863,253.35112 L 163.74928,245.61459 L 159.68114,237.33431 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cc"
+         id="path20208"
+         d="M 143.43482,241.77648 L 141.18995,217.17555"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         id="path20210"
+         d="M 146.80317,240.27717 L 138.79466,242.44298 L 141.06468,248.64518 C 141.06468,248.64518 135.87679,245.89924 132.83909,246.72075 C 129.80136,247.54226 127.18222,252.10315 127.18222,252.10315 L 128.27988,255.06618 L 150.29763,248.81542 L 146.80317,240.27717 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cscscsscsc"
+         id="path22617"
+         d="M 147.92194,78.847524 C 147.92194,78.847524 168.89464,73.360816 175.93708,80.839962 C 182.97952,88.319105 176.0917,108.76411 176.0917,108.76411 C 176.0917,108.76411 170.73039,115.09498 159.26904,114.55373 C 146.02123,113.92209 142.15476,98.415761 142.15476,98.415761 C 142.15476,98.415761 137.17564,100.18893 136.65677,99.588118 C 135.77487,98.566959 136.48753,97.344955 137.96763,94.453931 C 139.40128,91.653636 142.16009,90.412123 142.16009,90.412123 C 142.16009,90.412123 141.83374,87.014477 144.59904,83.071722 C 147.75426,78.573018 147.92194,78.847524 147.92194,78.847524 z "
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccc"
+         id="path20214"
+         d="M 198.39274,80.075243 L 130.01085,79.197413 L 155.75767,65.807693 L 180.99504,6.968193 L 177.49943,69.240603 L 198.39274,80.075243 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csccsc"
+         id="path20222"
+         d="M 162.74081,133.80017 C 162.74081,133.80017 150.82284,151.98706 143.91643,163.94333 C 137.62658,174.83222 124.44338,187.56373 124.44338,187.56373 L 110.95673,181.96188 C 110.95673,181.96188 127.84055,168.39602 137.03516,160.13343 C 149.64378,148.80292 160.93036,133.9918 160.93036,133.9918"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccsc"
+         id="path20224"
+         d="M 122.90848,187.16433 C 118.61538,192.43401 115.11728,203.1034 107.23144,200.21513 C 102.03219,198.07793 104.0793,190.67443 109.96857,186.03114 C 109.96857,186.03114 101.87336,190.06001 101.33555,188.08464 C 100.40743,184.67566 112.05942,182.6047 112.05942,182.6047"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccccccc"
+         id="path20226"
+         d="M 160.79711,77.482773 L 190.79066,138.62347 L 182.71547,113.24431 L 193.67466,130.54828 L 189.63706,110.36031 L 213.28582,144.96825 L 197.13545,112.09072 L 211.55542,126.51069 L 178.67788,75.175573 L 160.79711,77.482773 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         id="path20228"
+         d="M 221.36101,200.34096 C 221.36101,200.34096 225.3986,208.41615 232.32019,209.56974 C 239.24178,210.72333 291.73048,205.53215 291.73048,205.53215 L 276.73371,210.14654 L 289.42329,211.30013 L 276.73371,217.64493 L 287.11609,222.25931 L 264.62093,217.64493 L 279.61771,228.0273 L 266.35133,228.0273 L 278.46411,234.94889 L 258.27614,228.6041 L 268.65853,239.56329 C 268.65853,239.56329 239.24178,219.95212 232.32019,217.64493 C 225.3986,215.33772 213.28582,218.79852 213.28582,218.79852 L 219.05381,214.18413 L 215.59302,213.03053 L 221.93781,207.26254 L 219.63061,203.22494 L 223.6682,204.95534 L 221.36101,200.34096 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         transform="matrix(-1,0,0,1,414.9626,-199.37465)"
+         d="M 264.73515 285.78342 A 0.50691271 0.50691271 0 1 1  263.72133,285.78342 A 0.50691271 0.50691271 0 1 1  264.73515 285.78342 z"
+         sodipodi:ry="0.50691271"
+         sodipodi:rx="0.50691271"
+         sodipodi:cy="285.78342"
+         sodipodi:cx="264.22824"
+         id="path20216"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cs"
+         id="path20218"
+         d="M 157.01185,103.46443 C 157.01185,103.46443 151.89488,106.21297 148.33525,106.08443"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.94359231px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g26253"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-leap-left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-leap-left.png"
+         sodipodi:nodetypes="cc"
+         id="path20232"
+         d="M 605.10555,65.052849 C 653.42859,260.84678 661.94966,296.84364 661.94966,296.84364"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-leap-left.png"
+         sodipodi:nodetypes="cssccssccccccc"
+         id="path20234"
+         d="M 689.14322,254.14973 C 689.14322,254.14973 685.00679,248.44124 681.84345,231.3913 C 679.43083,218.3876 722.02886,236.21998 723.80079,210.58862 C 725.56658,185.04621 694.40272,113.77717 694.40272,113.77717 L 680.77369,112.4692 C 680.77369,112.4692 681.53482,172.77548 679.6317,194.08331 C 677.97608,212.62002 656.52882,187.25545 645.81463,197.62979 C 622.63991,220.0694 602.1922,251.76932 602.1922,251.76932 L 621.35128,238.12949 L 634.78884,252.1472 L 648.23439,233.83835 L 662.82426,252.1472 L 666.82932,242.99278 L 689.14322,254.14973 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-leap-left.png"
+         sodipodi:nodetypes="cc"
+         id="path20236"
+         d="M 668.00308,253.0086 L 665.40364,210.8085"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-leap-left.png"
+         id="path20238"
+         d="M 671.39425,250.01507 L 663.55193,252.72154 L 666.23929,258.75465 C 666.23929,258.75465 660.87635,256.3686 657.90169,257.39519 C 654.92701,258.42178 652.62473,263.15054 652.62473,263.15054 L 653.92174,266.03188 L 675.46239,258.29535 L 671.39425,250.01507 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-leap-left.png"
+         sodipodi:nodetypes="cc"
+         id="path20240"
+         d="M 655.14793,254.45724 L 652.90306,229.85631"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-leap-left.png"
+         id="path20242"
+         d="M 658.51628,252.95793 L 650.50777,255.12373 L 652.77779,261.32594 C 652.77779,261.32594 647.5899,258.58 644.5522,259.40151 C 641.51447,260.22302 638.89533,264.78391 638.89533,264.78391 L 639.99299,267.74694 L 662.01074,261.49617 L 658.51628,252.95793 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csccsc"
+         id="path20254"
+         d="M 685.03911,122.66419 C 685.03911,122.66419 673.12114,140.85108 666.21473,152.80735 C 659.92488,163.69624 646.74168,176.42775 646.74168,176.42775 L 633.25503,170.8259 C 633.25503,170.8259 650.13885,157.26004 659.33346,148.99745 C 671.94208,137.66694 683.22866,122.85582 683.22866,122.85582"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccsc"
+         id="path20256"
+         d="M 645.20678,176.02835 C 640.91368,181.29803 637.41558,191.96742 629.52974,189.07915 C 624.33049,186.94195 626.3776,179.53845 632.26687,174.89516 C 632.26687,174.89516 624.17166,178.92403 623.63385,176.94866 C 622.70573,173.53968 634.35772,171.46872 634.35772,171.46872"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-leap-left.png"
+         id="path20260"
+         d="M 666.08003,269.11442 C 666.08003,269.11442 660.35765,276.09762 662.13115,282.88687 C 663.90464,289.67612 690.07771,335.46894 690.07771,335.46894 L 679.74148,323.66394 L 683.87041,335.71834 L 672.8968,326.72604 L 672.92448,338.08764 L 667.95039,315.66924 L 664.59728,333.59834 L 659.17978,321.48854 L 657.80803,335.37184 L 655.35566,314.35294 L 649.59169,328.30544 C 649.59169,328.30544 655.48042,293.44482 654.75996,286.18448 C 654.03949,278.92414 645.93399,269.28062 645.93399,269.28062 L 652.50153,272.66141 L 652.1413,269.03125 L 659.99742,272.46746 L 662.74084,268.7126 L 662.8101,273.10482 L 666.08003,269.11442 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cscscsscsc"
+         id="path26131"
+         d="M 673.73352,76.238121 C 673.73352,76.238121 694.70622,70.751411 701.74866,78.230561 C 708.7911,85.709701 701.90328,106.15471 701.90328,106.15471 C 701.90328,106.15471 696.54197,112.48558 685.08062,111.94433 C 671.83281,111.31269 667.96634,95.806361 667.96634,95.806361 C 667.96634,95.806361 662.98722,97.579531 662.46835,96.978711 C 661.58645,95.957551 662.29911,94.735551 663.77921,91.844531 C 665.21286,89.044231 667.97167,87.802721 667.97167,87.802721 C 667.97167,87.802721 667.64532,84.405071 670.41062,80.462321 C 673.56584,75.963611 673.73352,76.238121 673.73352,76.238121 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccc"
+         id="path26133"
+         d="M 724.20432,77.465841 L 655.82243,76.588011 L 681.56925,63.198291 L 706.80662,4.3587902 L 703.31101,66.631201 L 724.20432,77.465841 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccccccc"
+         id="path26135"
+         d="M 686.60869,74.873371 L 716.60224,136.01407 L 708.52705,110.63491 L 719.48624,127.93888 L 715.44864,107.75091 L 739.0974,142.35885 L 722.94703,109.48132 L 737.367,123.90129 L 704.48946,72.566171 L 686.60869,74.873371 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         transform="matrix(-1,0,0,1,940.77418,-201.98405)"
+         d="M 264.73515 285.78342 A 0.50691271 0.50691271 0 1 1  263.72133,285.78342 A 0.50691271 0.50691271 0 1 1  264.73515 285.78342 z"
+         sodipodi:ry="0.50691271"
+         sodipodi:rx="0.50691271"
+         sodipodi:cy="285.78342"
+         sodipodi:cx="264.22824"
+         id="path26137"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cs"
+         id="path26139"
+         d="M 682.82343,100.85503 C 682.82343,100.85503 677.70646,103.60357 674.14683,103.47503"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.94359231px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g26357"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-left.png"
+         sodipodi:nodetypes="csccsccccccc"
+         id="path20138"
+         d="M 328.75535,831.82465 C 328.75535,831.82465 302.06116,801.7867 296.05357,776.89811 C 290.04598,752.00952 281.11553,688.92935 281.11553,688.92935 L 265.66744,688.04676 C 265.66744,688.04676 259.74596,751.72345 252.30799,782.9057 C 244.87002,814.08795 230.38796,831.34695 230.38796,831.34695 L 251.44977,817.32655 L 267.55114,822.59175 L 281.75779,814.93815 L 293.30329,822.21125 L 305.29981,816.86225 L 328.75535,831.82465 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-left.png"
+         sodipodi:nodetypes="cc"
+         id="path20140"
+         d="M 306.58163,835.73435 L 294.8491,803.80894"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-left.png"
+         id="path20142"
+         d="M 310.58669,835.73435 L 302.29049,835.73435 L 302.86264,842.31405 C 302.86264,842.31405 298.57151,838.30895 295.42468,838.30895 C 292.27784,838.30895 288.55886,842.02795 288.55886,842.02795 L 288.84493,845.17475 L 311.73099,844.88875 L 310.58669,835.73435 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-left.png"
+         sodipodi:nodetypes="cc"
+         id="path20144"
+         d="M 253.79127,834.39105 L 265.55026,801.84746"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-left.png"
+         id="path20146"
+         d="M 257.62132,834.18805 L 249.50575,832.46625 L 248.69989,839.02155 C 248.69989,839.02155 245.3334,834.21305 242.25509,833.55995 C 239.17676,832.90685 234.76692,835.77305 234.76692,835.77305 L 234.39367,838.91075 L 256.84079,843.38065 L 257.62132,834.18805 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-left.png"
+         sodipodi:nodetypes="csccsc"
+         id="path20156"
+         d="M 273.30306,695.81794 C 273.30306,695.81794 264.64991,715.76598 259.87631,728.72221 C 255.52887,740.52177 244.7016,755.30887 244.7016,755.30887 L 230.45901,752.08099 C 230.45901,752.08099 244.79123,735.84265 252.44758,726.13742 C 262.94677,712.82859 271.55153,696.31454 271.55153,696.31454"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-left.png"
+         sodipodi:nodetypes="cccsc"
+         id="path20158"
+         d="M 243.12114,755.17619 C 239.78625,761.09891 238.15262,772.20765 229.8906,770.70183 C 224.40372,769.47949 225.16261,761.83577 230.17691,756.259 C 230.17691,756.259 222.88433,761.60525 222.01857,759.75004 C 220.52451,756.54842 231.65492,752.52701 231.65492,752.52701"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-left.png"
+         sodipodi:nodetypes="csccsc"
+         id="path20160"
+         d="M 277.82685,690.83078 C 277.82685,690.83078 288.75147,709.63115 296.34927,721.16044 C 303.26878,731.66046 308.74899,749.14918 308.74899,749.14918 L 297.70085,758.69953 C 297.70085,758.69953 293.13176,737.52833 289.86127,725.60713 C 285.37644,709.25953 277.18748,692.53539 277.18748,692.53539"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-left.png"
+         sodipodi:nodetypes="cccsc"
+         id="path20162"
+         d="M 307.70454,750.34274 C 310.49388,756.54111 318.46729,764.44665 312.3535,770.20426 C 308.11432,773.89605 302.41131,768.75036 300.89681,761.4053 C 300.89681,761.4053 300.87411,770.44763 298.86703,770.04393 C 295.40333,769.34724 298.7694,758.00143 298.7694,758.00143"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cscscsscsc"
+         id="path26141"
+         d="M 259.41674,650.52277 C 259.41674,650.52277 280.38944,645.03607 287.43188,652.51521 C 294.47432,659.99435 287.5865,680.43936 287.5865,680.43936 C 287.5865,680.43936 282.22519,686.77023 270.76384,686.22898 C 257.51603,685.59734 253.64956,670.09101 253.64956,670.09101 C 253.64956,670.09101 248.67044,671.86418 248.15157,671.26337 C 247.26967,670.24221 247.98233,669.0202 249.46243,666.12918 C 250.89608,663.32889 253.65489,662.08737 253.65489,662.08737 C 253.65489,662.08737 253.32854,658.68973 256.09384,654.74697 C 259.24906,650.24827 259.41674,650.52277 259.41674,650.52277 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccc"
+         id="path26143"
+         d="M 309.88754,651.75049 L 241.50565,650.87266 L 267.25247,637.48294 L 292.48984,578.64344 L 288.99423,640.91585 L 309.88754,651.75049 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccccccc"
+         id="path26145"
+         d="M 272.29191,649.15802 L 302.28546,710.29872 L 294.21027,684.91956 L 305.16946,702.22353 L 301.13186,682.03556 L 324.78062,716.6435 L 308.63025,683.76597 L 323.05022,698.18594 L 290.17268,646.85082 L 272.29191,649.15802 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         transform="matrix(-1,0,0,1,526.4574,372.3006)"
+         d="M 264.73515 285.78342 A 0.50691271 0.50691271 0 1 1  263.72133,285.78342 A 0.50691271 0.50691271 0 1 1  264.73515 285.78342 z"
+         sodipodi:ry="0.50691271"
+         sodipodi:rx="0.50691271"
+         sodipodi:cy="285.78342"
+         sodipodi:cx="264.22824"
+         id="path26147"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cs"
+         id="path26149"
+         d="M 268.50665,675.13968 C 268.50665,675.13968 263.38968,677.88822 259.83005,677.75968"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.94359231px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g26343"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-left.png"
+         sodipodi:nodetypes="csccsccccccc"
+         id="path20114"
+         d="M 210.17269,822.91816 C 210.17269,822.91816 186.14233,792.88026 180.13474,767.99167 C 174.12715,743.10308 169.00215,682.68673 169.00215,682.68673 L 153.55406,681.80414 C 153.55406,681.80414 150.67694,743.95865 143.23897,775.1409 C 135.801,806.32316 123.22167,820.53776 123.22167,820.53776 L 142.38075,806.89796 L 155.81831,820.91566 L 169.26386,802.60683 L 183.85373,820.91566 L 187.85879,811.76126 L 210.17269,822.91816 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-left.png"
+         sodipodi:nodetypes="cc"
+         id="path20116"
+         d="M 173.53825,835.19986 L 170.93881,792.99977"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-left.png"
+         id="path20118"
+         d="M 177.92385,833.29716 L 169.62765,833.29716 L 170.1998,839.87686 C 170.1998,839.87686 165.90867,835.87186 162.76184,835.87186 C 159.615,835.87186 155.89602,839.59076 155.89602,839.59076 L 156.18209,842.73766 L 179.06815,842.45156 L 177.92385,833.29716 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-left.png"
+         sodipodi:nodetypes="cc"
+         id="path20120"
+         d="M 166.41334,822.05966 L 155.72015,799.79084"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-left.png"
+         id="path20122"
+         d="M 169.92884,817.35506 L 161.92033,819.52086 L 164.19035,825.72306 C 164.19035,825.72306 159.00246,822.97716 155.96476,823.79866 C 152.92703,824.62016 150.30789,829.18106 150.30789,829.18106 L 151.40555,832.14406 L 173.4233,825.89336 L 169.92884,817.35506 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-left.png"
+         sodipodi:nodetypes="csccsc"
+         id="path20132"
+         d="M 160.58869,684.94958 C 160.58869,684.94958 164.62861,706.31498 167.9531,719.71642 C 170.9808,731.92147 170.32392,750.23694 170.32392,750.23694 L 156.7259,755.56276 C 156.7259,755.56276 159.46827,734.07845 160.35458,721.74858 C 161.57,704.84058 159.41813,686.34395 159.41813,686.34395"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-left.png"
+         sodipodi:nodetypes="cccsc"
+         id="path20134"
+         d="M 168.9416,751.01453 C 169.50747,757.78801 174.39295,767.89765 166.7107,771.29053 C 161.48404,773.3598 157.82024,766.60857 158.83832,759.17842 C 158.83832,759.17842 155.80555,767.69702 154.04749,766.64795 C 151.01353,764.83752 157.96594,755.26037 157.96594,755.26037"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cscscsscsc"
+         id="path26151"
+         d="M 147.43923,644.12406 C 147.43923,644.12406 168.41193,638.63736 175.45437,646.1165 C 182.49681,653.59564 175.60899,674.04065 175.60899,674.04065 C 175.60899,674.04065 170.24768,680.37152 158.78633,679.83027 C 145.53852,679.19863 141.67205,663.6923 141.67205,663.6923 C 141.67205,663.6923 136.69293,665.46547 136.17406,664.86466 C 135.29216,663.8435 136.00482,662.62149 137.48492,659.73047 C 138.91857,656.93018 141.67738,655.68866 141.67738,655.68866 C 141.67738,655.68866 141.35103,652.29102 144.11633,648.34826 C 147.27155,643.84956 147.43923,644.12406 147.43923,644.12406 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccc"
+         id="path26153"
+         d="M 197.91003,645.35178 L 129.52814,644.47395 L 155.27496,631.08423 L 180.51233,572.24473 L 177.01672,634.51714 L 197.91003,645.35178 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccccccc"
+         id="path26155"
+         d="M 163.30221,641.82551 L 181.99223,707.312 L 178.5399,680.90383 L 186.26092,699.87531 L 185.86287,679.29138 L 203.00793,717.54083 L 192.93621,682.32256 L 204.57411,699.06861 L 181.30892,642.72185 L 163.30221,641.82551 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         transform="matrix(-1,0,0,1,414.47989,365.90189)"
+         d="M 264.73515 285.78342 A 0.50691271 0.50691271 0 1 1  263.72133,285.78342 A 0.50691271 0.50691271 0 1 1  264.73515 285.78342 z"
+         sodipodi:ry="0.50691271"
+         sodipodi:rx="0.50691271"
+         sodipodi:cy="285.78342"
+         sodipodi:cx="264.22824"
+         id="path26157"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cs"
+         id="path26159"
+         d="M 156.52914,668.74097 C 156.52914,668.74097 151.41217,671.48951 147.85254,671.36097"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.94359231px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g26329"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-standing-left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         sodipodi:nodetypes="csccsccccccc"
+         id="path22565"
+         d="M 109.80269,822.62468 C 109.80269,822.62468 85.77234,792.58673 79.76475,767.69814 C 73.75716,742.80955 68.63216,682.3932 68.63216,682.3932 L 53.18407,681.51061 C 53.18407,681.51061 50.30695,743.66512 42.86897,774.84737 C 35.43101,806.02962 22.85167,820.24427 22.85167,820.24427 L 42.01076,806.60444 L 55.44831,820.62215 L 68.89387,802.3133 L 83.48374,820.62215 L 87.48879,811.46773 L 109.80269,822.62468 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         sodipodi:nodetypes="cc"
+         id="path22567"
+         d="M 72.43599,834.93871 L 71.30107,792.67387"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         id="path22569"
+         d="M 77.55385,833.00362 L 69.25765,833.00362 L 69.82981,839.58336 C 69.82981,839.58336 65.53868,835.5783 62.39184,835.5783 C 59.245,835.5783 55.52603,839.29728 55.52603,839.29728 L 55.81209,842.44411 L 78.69815,842.15804 L 77.55385,833.00362 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         sodipodi:nodetypes="csccsc"
+         id="path22579"
+         d="M 60.21869,684.65605 C 60.21869,684.65605 64.25861,706.02145 67.5831,719.42289 C 70.6108,731.62794 69.95393,749.94341 69.95393,749.94341 L 56.35591,755.26923 C 56.35591,755.26923 59.09827,733.78492 59.98459,721.45505 C 61.2,704.54705 59.04814,686.05042 59.04814,686.05042"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         sodipodi:nodetypes="cccsc"
+         id="path22581"
+         d="M 68.57161,750.721 C 69.13747,757.49448 74.02295,767.60412 66.34071,770.997 C 61.11404,773.06627 57.45024,766.31504 58.46833,758.88489 C 58.46833,758.88489 55.43556,767.40349 53.6775,766.35442 C 50.64353,764.54399 57.59595,754.96684 57.59595,754.96684"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         sodipodi:nodetypes="cc"
+         id="path22585"
+         d="M 67.19778,834.74135 L 66.06286,792.47651"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         id="path22587"
+         d="M 72.31564,832.80626 L 64.01944,832.80626 L 64.5916,839.386 C 64.5916,839.386 60.30047,835.38094 57.15363,835.38094 C 54.00679,835.38094 50.28782,839.09992 50.28782,839.09992 L 50.57388,842.24675 L 73.45994,841.96068 L 72.31564,832.80626 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cscscsscsc"
+         id="path26161"
+         d="M 46.659468,644.12406 C 46.659468,644.12406 67.632165,638.63735 74.674605,646.1165 C 81.717045,653.59564 74.829225,674.04064 74.829225,674.04064 C 74.829225,674.04064 69.467915,680.37151 58.006565,679.83026 C 44.758758,679.19862 40.892288,663.69229 40.892288,663.69229 C 40.892288,663.69229 35.913168,665.46546 35.394298,664.86465 C 34.512398,663.84349 35.225058,662.62149 36.705158,659.73046 C 38.138808,656.93017 40.897618,655.68866 40.897618,655.68866 C 40.897618,655.68866 40.571268,652.29101 43.336568,648.34826 C 46.491788,643.84955 46.659468,644.12406 46.659468,644.12406 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccc"
+         id="path26163"
+         d="M 97.130265,645.35178 L 28.748378,644.47395 L 54.495198,631.08423 L 79.732565,572.24473 L 76.236955,634.51714 L 97.130265,645.35178 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccccccc"
+         id="path26165"
+         d="M 65.550051,641.25358 L 76.115714,708.53035 L 75.909147,681.89827 L 81.259322,701.66963 L 83.374085,681.19076 L 95.727384,721.24534 L 90.025051,685.06178 L 99.534234,703.10192 L 83.313113,644.33882 L 65.550051,641.25358 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         transform="matrix(-1,0,0,1,313.70013,365.90188)"
+         d="M 264.73515 285.78342 A 0.50691271 0.50691271 0 1 1  263.72133,285.78342 A 0.50691271 0.50691271 0 1 1  264.73515 285.78342 z"
+         sodipodi:ry="0.50691271"
+         sodipodi:rx="0.50691271"
+         sodipodi:cy="285.78342"
+         sodipodi:cx="264.22824"
+         id="path26167"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cs"
+         id="path26169"
+         d="M 55.749378,668.74096 C 55.749378,668.74096 50.632408,671.4895 47.072778,671.36096"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.94359231px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g26237"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-right.png"
+         sodipodi:nodetypes="cc"
+         id="path11151"
+         d="M 581.91112,173.2732 C 383.45324,209.11801 347.1149,216.0396 347.1149,216.0396"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-right.png"
+         sodipodi:nodetypes="cssccssccccccc"
+         id="path11112"
+         d="M 414.67089,242.07374 C 414.67089,242.07374 418.80732,236.36525 421.97066,219.31531 C 424.38328,206.31161 381.78525,224.14399 380.01332,198.51263 C 378.24753,172.97022 419.99661,117.57901 419.99661,117.57901 L 441.56455,114.94789 C 441.56455,114.94789 422.27929,160.69949 424.18241,182.00732 C 425.83803,200.54403 447.28529,175.17946 457.99948,185.5538 C 481.1742,207.99341 501.62191,239.69333 501.62191,239.69333 L 482.46283,226.0535 L 469.02527,240.07121 L 455.57972,221.76236 L 440.98985,240.07121 L 436.98479,230.91679 L 414.67089,242.07374 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-right.png"
+         sodipodi:nodetypes="cc"
+         id="path11114"
+         d="M 435.81103,240.93261 L 438.41047,198.73251"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-right.png"
+         id="path11116"
+         d="M 432.41986,237.93908 L 440.26218,240.64555 L 437.57482,246.67866 C 437.57482,246.67866 442.93776,244.29261 445.91242,245.3192 C 448.8871,246.34579 451.18938,251.07455 451.18938,251.07455 L 449.89237,253.95589 L 428.35172,246.21936 L 432.41986,237.93908 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-right.png"
+         sodipodi:nodetypes="cc"
+         id="path11118"
+         d="M 448.66618,242.38125 L 450.91105,217.78032"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-right.png"
+         id="path11120"
+         d="M 445.29783,240.88194 L 453.30634,243.04774 L 451.03632,249.24995 C 451.03632,249.24995 456.22421,246.50401 459.26191,247.32552 C 462.29964,248.14703 464.91878,252.70792 464.91878,252.70792 L 463.82112,255.67095 L 441.80337,249.42018 L 445.29783,240.88194 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csccsc"
+         id="path11134"
+         d="M 429.36023,134.40494 C 429.36023,134.40494 441.2782,152.59183 448.18461,164.5481 C 454.47446,175.43699 467.65766,188.1685 467.65766,188.1685 L 481.14431,182.56665 C 481.14431,182.56665 464.26049,169.00079 455.06588,160.7382 C 442.45726,149.40769 431.17068,134.59657 431.17068,134.59657"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccsc"
+         id="path11136"
+         d="M 469.19256,187.7691 C 473.48566,193.03878 476.98376,203.70817 484.8696,200.8199 C 490.06885,198.6827 488.02174,191.2792 482.13247,186.63591 C 482.13247,186.63591 490.22768,190.66478 490.76549,188.68941 C 491.69361,185.28043 480.04162,183.20947 480.04162,183.20947"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-right.png"
+         id="path16025"
+         d="M 370.73999,200.94572 C 370.73999,200.94572 366.7024,209.02091 359.78081,210.1745 C 352.85922,211.3281 300.37052,206.13691 300.37052,206.13691 L 315.36729,210.7513 L 302.67771,211.9049 L 315.36729,218.24969 L 304.98491,222.86408 L 327.48007,218.24969 L 312.48329,228.63207 L 325.74967,228.63207 L 313.63689,235.55366 L 333.82486,229.20887 L 323.44247,240.16805 C 323.44247,240.16805 352.85922,220.55689 359.78081,218.24969 C 366.7024,215.94249 378.81518,219.40329 378.81518,219.40329 L 373.04719,214.7889 L 376.50798,213.6353 L 370.16319,207.86731 L 372.47039,203.82971 L 368.4328,205.56011 L 370.73999,200.94572 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cscscsscsc"
+         id="path26171"
+         d="M 442.84222,79.437475 C 442.84222,79.437475 421.86952,73.950775 414.82708,81.429915 C 407.78464,88.909055 414.67246,109.35407 414.67246,109.35407 C 414.67246,109.35407 420.03377,115.68494 431.49512,115.14369 C 444.74293,114.51205 448.6094,99.005715 448.6094,99.005715 C 448.6094,99.005715 453.58852,100.77889 454.10739,100.17808 C 454.98929,99.156915 454.27663,97.934905 452.79653,95.043885 C 451.36288,92.243595 448.60407,91.002075 448.60407,91.002075 C 448.60407,91.002075 448.93042,87.604435 446.16512,83.661675 C 443.0099,79.162975 442.84222,79.437475 442.84222,79.437475 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccc"
+         id="path26173"
+         d="M 392.37142,80.665195 L 460.75331,79.787365 L 435.00649,66.397645 L 409.76912,7.5581451 L 413.26473,69.830555 L 392.37142,80.665195 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccccccc"
+         id="path26175"
+         d="M 429.96705,78.072725 L 399.9735,139.21343 L 408.04869,113.83427 L 397.0895,131.13824 L 401.1271,110.95027 L 377.47834,145.55821 L 393.62871,112.68068 L 379.20874,127.10065 L 412.08628,75.765525 L 429.96705,78.072725 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         transform="translate(175.80156,-198.7847)"
+         d="M 264.73515 285.78342 A 0.50691271 0.50691271 0 1 1  263.72133,285.78342 A 0.50691271 0.50691271 0 1 1  264.73515 285.78342 z"
+         sodipodi:ry="0.50691271"
+         sodipodi:rx="0.50691271"
+         sodipodi:cy="285.78342"
+         sodipodi:cx="264.22824"
+         id="path26177"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cs"
+         id="path26179"
+         d="M 433.75231,104.05439 C 433.75231,104.05439 438.86928,106.80293 442.42891,106.67439"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.94359231px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g26269"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-leap-right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-132.2063,-74.03553)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-leap-right.png"
+         sodipodi:nodetypes="cc"
+         id="path20168"
+         d="M 725.56486,412.11321 C 677.24182,607.90714 668.72075,643.904 668.72075,643.904"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-leap-right.png"
+         sodipodi:nodetypes="cssccssccccccc"
+         id="path20170"
+         d="M 641.52719,601.21009 C 641.52719,601.21009 645.66362,595.5016 648.82696,578.45166 C 651.23958,565.44796 608.64155,583.28034 606.86962,557.64898 C 605.10383,532.10657 636.26769,460.83753 636.26769,460.83753 L 649.89672,459.52956 C 649.89672,459.52956 649.13559,519.83584 651.03871,541.14367 C 652.69433,559.68038 674.14159,534.31581 684.85578,544.69015 C 708.0305,567.12976 728.47821,598.82968 728.47821,598.82968 L 709.31913,585.18985 L 695.88157,599.20756 L 682.43602,580.89871 L 667.84615,599.20756 L 663.84109,590.05314 L 641.52719,601.21009 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-leap-right.png"
+         sodipodi:nodetypes="cc"
+         id="path20172"
+         d="M 662.66733,600.06896 L 665.26677,557.86886"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-leap-right.png"
+         id="path20174"
+         d="M 659.27616,597.07543 L 667.11848,599.7819 L 664.43112,605.81501 C 664.43112,605.81501 669.79406,603.42896 672.76872,604.45555 C 675.7434,605.48214 678.04568,610.2109 678.04568,610.2109 L 676.74867,613.09224 L 655.20802,605.35571 L 659.27616,597.07543 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-leap-right.png"
+         sodipodi:nodetypes="cc"
+         id="path20176"
+         d="M 675.52248,601.5176 L 677.76735,576.91667"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-leap-right.png"
+         id="path20178"
+         d="M 672.15413,600.01829 L 680.16264,602.18409 L 677.89262,608.3863 C 677.89262,608.3863 683.08051,605.64036 686.11821,606.46187 C 689.15594,607.28338 691.77508,611.84427 691.77508,611.84427 L 690.67742,614.8073 L 668.65967,608.55653 L 672.15413,600.01829 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csccsc"
+         id="path20190"
+         d="M 645.6313,469.72455 C 645.6313,469.72455 657.54927,487.91144 664.45568,499.86771 C 670.74553,510.7566 683.92873,523.48811 683.92873,523.48811 L 697.41538,517.88626 C 697.41538,517.88626 680.53156,504.3204 671.33695,496.05781 C 658.72833,484.7273 647.44175,469.91618 647.44175,469.91618"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccsc"
+         id="path20192"
+         d="M 685.46363,523.08871 C 689.75673,528.35839 693.25483,539.02778 701.14067,536.13951 C 706.33992,534.00231 704.29281,526.59881 698.40354,521.95552 C 698.40354,521.95552 706.49875,525.98439 707.03656,524.00902 C 707.96468,520.60004 696.31269,518.52908 696.31269,518.52908"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-leap-right.png"
+         id="path20196"
+         d="M 664.59038,616.17478 C 664.59038,616.17478 670.31276,623.15798 668.53926,629.94723 C 666.76577,636.73648 640.5927,682.5293 640.5927,682.5293 L 650.92893,670.7243 L 646.8,682.7787 L 657.77361,673.7864 L 657.74593,685.148 L 662.72002,662.7296 L 666.07313,680.6587 L 671.49063,668.5489 L 672.86238,682.4322 L 675.31475,661.4133 L 681.07872,675.3658 C 681.07872,675.3658 675.18999,640.50518 675.91045,633.24484 C 676.63092,625.9845 684.73642,616.34098 684.73642,616.34098 L 678.16888,619.72177 L 678.52911,616.09161 L 670.67299,619.52782 L 667.92957,615.77296 L 667.86031,620.16518 L 664.59038,616.17478 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cscscsscsc"
+         id="path26181"
+         d="M 655.59948,421.76872 C 655.59948,421.76872 634.62678,416.28201 627.58434,423.76116 C 620.5419,431.2403 627.42972,451.68531 627.42972,451.68531 C 627.42972,451.68531 632.79103,458.01618 644.25238,457.47493 C 657.50019,456.84329 661.36666,441.33696 661.36666,441.33696 C 661.36666,441.33696 666.34578,443.11013 666.86465,442.50932 C 667.74655,441.48816 667.03389,440.26615 665.55379,437.37513 C 664.12014,434.57483 661.36133,433.33332 661.36133,433.33332 C 661.36133,433.33332 661.68768,429.93568 658.92238,425.99292 C 655.76716,421.49422 655.59948,421.76872 655.59948,421.76872 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccc"
+         id="path26183"
+         d="M 605.12868,422.99644 L 673.51057,422.11861 L 647.76375,408.72889 L 622.52638,349.88939 L 626.02199,412.1618 L 605.12868,422.99644 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccccccc"
+         id="path26185"
+         d="M 642.72431,420.40397 L 612.73076,481.54467 L 620.80595,456.16551 L 609.84676,473.46948 L 613.88436,453.28151 L 590.2356,487.88945 L 606.38597,455.01192 L 591.966,469.43189 L 624.84354,418.09677 L 642.72431,420.40397 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         transform="translate(388.55882,143.54655)"
+         d="M 264.73515 285.78342 A 0.50691271 0.50691271 0 1 1  263.72133,285.78342 A 0.50691271 0.50691271 0 1 1  264.73515 285.78342 z"
+         sodipodi:ry="0.50691271"
+         sodipodi:rx="0.50691271"
+         sodipodi:cy="285.78342"
+         sodipodi:cx="264.22824"
+         id="path26187"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cs"
+         id="path26189"
+         d="M 646.50957,446.38563 C 646.50957,446.38563 651.62654,449.13417 655.18617,449.00563"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.94359231px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g26285"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-standing-right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         sodipodi:nodetypes="csccsccccccc"
+         id="path22477"
+         d="M 353.14341,539.15771 C 353.14341,539.15771 377.17376,509.11976 383.18135,484.23117 C 389.18894,459.34258 394.31394,398.92623 394.31394,398.92623 L 409.76203,398.04364 C 409.76203,398.04364 412.63915,460.19815 420.07713,491.3804 C 427.51509,522.56265 440.09443,536.7773 440.09443,536.7773 L 420.93534,523.13747 L 407.49779,537.15518 L 394.05223,518.84633 L 379.46236,537.15518 L 375.45731,528.00076 L 353.14341,539.15771 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         sodipodi:nodetypes="cc"
+         id="path22479"
+         d="M 390.51011,551.47174 L 391.64503,509.2069"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         id="path22481"
+         d="M 385.39225,549.53665 L 393.68845,549.53665 L 393.11629,556.11639 C 393.11629,556.11639 397.40742,552.11133 400.55426,552.11133 C 403.7011,552.11133 407.42007,555.83031 407.42007,555.83031 L 407.13401,558.97714 L 384.24795,558.69107 L 385.39225,549.53665 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         sodipodi:nodetypes="csccsc"
+         id="path22495"
+         d="M 402.72741,401.18908 C 402.72741,401.18908 398.68749,422.55448 395.363,435.95592 C 392.3353,448.16097 392.99217,466.47644 392.99217,466.47644 L 406.59019,471.80226 C 406.59019,471.80226 403.84783,450.31795 402.96151,437.98808 C 401.7461,421.08008 403.89796,402.58345 403.89796,402.58345"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         sodipodi:nodetypes="cccsc"
+         id="path22497"
+         d="M 394.37449,467.25403 C 393.80863,474.02751 388.92315,484.13715 396.60539,487.53003 C 401.83206,489.5993 405.49586,482.84807 404.47777,475.41792 C 404.47777,475.41792 407.51054,483.93652 409.2686,482.88745 C 412.30257,481.07702 405.35015,471.49987 405.35015,471.49987"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         sodipodi:nodetypes="cc"
+         id="path22542"
+         d="M 395.74832,551.27438 L 396.88324,509.00954"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         id="path22544"
+         d="M 390.63046,549.33929 L 398.92666,549.33929 L 398.3545,555.91903 C 398.3545,555.91903 402.64563,551.91397 405.79247,551.91397 C 408.93931,551.91397 412.65828,555.63295 412.65828,555.63295 L 412.37222,558.77978 L 389.48616,558.49371 L 390.63046,549.33929 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cscscsscsc"
+         id="path26191"
+         d="M 414.048,360.98093 C 414.048,360.98093 393.0753,355.49422 386.03286,362.97337 C 378.99042,370.45251 385.87824,390.89752 385.87824,390.89752 C 385.87824,390.89752 391.23955,397.22839 402.7009,396.68714 C 415.94871,396.0555 419.81518,380.54917 419.81518,380.54917 C 419.81518,380.54917 424.7943,382.32234 425.31317,381.72153 C 426.19507,380.70037 425.48241,379.47836 424.00231,376.58734 C 422.56866,373.78704 419.80985,372.54553 419.80985,372.54553 C 419.80985,372.54553 420.1362,369.14789 417.3709,365.20513 C 414.21568,360.70643 414.048,360.98093 414.048,360.98093 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccc"
+         id="path26193"
+         d="M 363.5772,362.20865 L 431.95909,361.33082 L 406.21227,347.9411 L 380.9749,289.1016 L 384.47051,351.37401 L 363.5772,362.20865 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccccccc"
+         id="path26195"
+         d="M 395.79426,359.34181 L 386.88916,426.85845 L 386.43959,400.22937 L 381.5781,420.12653 L 378.95948,399.70597 L 367.59668,440.05272 L 372.4059,403.73967 L 363.34402,422.00859 L 378.11259,362.86371 L 395.79426,359.34181 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         transform="translate(147.00734,82.758756)"
+         d="M 264.73515 285.78342 A 0.50691271 0.50691271 0 1 1  263.72133,285.78342 A 0.50691271 0.50691271 0 1 1  264.73515 285.78342 z"
+         sodipodi:ry="0.50691271"
+         sodipodi:rx="0.50691271"
+         sodipodi:cy="285.78342"
+         sodipodi:cx="264.22824"
+         id="path26197"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cs"
+         id="path26199"
+         d="M 404.95809,385.59784 C 404.95809,385.59784 410.07506,388.34638 413.63469,388.21784"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.94359231px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g26299"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         sodipodi:nodetypes="csccsccccccc"
+         id="path10070"
+         d="M 247.70995,539.28893 C 247.70995,539.28893 271.74031,509.25098 277.7479,484.36239 C 283.75549,459.4738 288.88049,399.05745 288.88049,399.05745 L 304.32858,398.17486 C 304.32858,398.17486 307.2057,460.32937 314.64367,491.51162 C 322.08164,522.69387 334.66097,536.90852 334.66097,536.90852 L 315.50189,523.26869 L 302.06433,537.2864 L 288.61878,518.97755 L 274.02891,537.2864 L 270.02385,528.13198 L 247.70995,539.28893 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         sodipodi:nodetypes="cc"
+         id="path10072"
+         d="M 284.34439,551.57059 L 286.94383,509.37049"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         id="path10074"
+         d="M 279.95879,549.66787 L 288.25499,549.66787 L 287.68284,556.24761 C 287.68284,556.24761 291.97397,552.24255 295.1208,552.24255 C 298.26764,552.24255 301.98662,555.96153 301.98662,555.96153 L 301.70055,559.10836 L 278.81449,558.82229 L 279.95879,549.66787 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         sodipodi:nodetypes="cc"
+         id="path10076"
+         d="M 291.4693,538.43039 L 302.16249,516.16156"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         id="path10078"
+         d="M 287.9538,533.72581 L 295.96231,535.89161 L 293.69229,542.09382 C 293.69229,542.09382 298.88018,539.34788 301.91788,540.16939 C 304.95561,540.9909 307.57475,545.55179 307.57475,545.55179 L 306.47709,548.51482 L 284.45934,542.26405 L 287.9538,533.72581 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         sodipodi:nodetypes="csccsc"
+         id="path10098"
+         d="M 297.29395,401.3203 C 297.29395,401.3203 293.25403,422.6857 289.92954,436.08714 C 286.90184,448.29219 287.55872,466.60766 287.55872,466.60766 L 301.15674,471.93348 C 301.15674,471.93348 298.41437,450.44917 297.52806,438.1193 C 296.31264,421.2113 298.46451,402.71467 298.46451,402.71467"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-walk-right.png"
+         sodipodi:nodetypes="cccsc"
+         id="path10100"
+         d="M 288.94104,467.38525 C 288.37517,474.15873 283.48969,484.26837 291.17194,487.66125 C 296.3986,489.73052 300.0624,482.97929 299.04432,475.54914 C 299.04432,475.54914 302.07709,484.06774 303.83515,483.01867 C 306.86911,481.20824 299.9167,471.63109 299.9167,471.63109"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cscscsscsc"
+         id="path26201"
+         d="M 310.06888,360.98093 C 310.06888,360.98093 289.09618,355.49422 282.05374,362.97337 C 275.0113,370.45251 281.89912,390.89752 281.89912,390.89752 C 281.89912,390.89752 287.26043,397.22839 298.72178,396.68714 C 311.96959,396.0555 315.83606,380.54917 315.83606,380.54917 C 315.83606,380.54917 320.81518,382.32234 321.33405,381.72153 C 322.21595,380.70037 321.50329,379.47836 320.02319,376.58734 C 318.58954,373.78704 315.83073,372.54553 315.83073,372.54553 C 315.83073,372.54553 316.15708,369.14789 313.39178,365.20513 C 310.23656,360.70643 310.06888,360.98093 310.06888,360.98093 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccc"
+         id="path26203"
+         d="M 259.59808,362.20865 L 327.97997,361.33082 L 302.23315,347.9411 L 276.99578,289.1016 L 280.49139,351.37401 L 259.59808,362.20865 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccccccc"
+         id="path26205"
+         d="M 294.5976,356.44826 L 278.05268,422.50933 L 280.64215,396.00263 L 273.54379,415.21576 L 273.2705,394.6298 L 257.38167,433.41793 L 266.29975,397.88999 L 255.21404,415.00659 L 276.62968,357.93123 L 294.5976,356.44826 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         transform="translate(43.028222,82.758756)"
+         d="M 264.73515 285.78342 A 0.50691271 0.50691271 0 1 1  263.72133,285.78342 A 0.50691271 0.50691271 0 1 1  264.73515 285.78342 z"
+         sodipodi:ry="0.50691271"
+         sodipodi:rx="0.50691271"
+         sodipodi:cy="285.78342"
+         sodipodi:cx="264.22824"
+         id="path26207"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cs"
+         id="path26209"
+         d="M 300.97897,385.59784 C 300.97897,385.59784 306.09594,388.34638 309.65557,388.21784"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.94359231px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g26313"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-right.png"
+         sodipodi:nodetypes="csccsccccccc"
+         id="path10006"
+         d="M 123.94548,545.08628 C 123.94548,545.08628 150.63966,515.04833 156.64725,490.15974 C 162.65484,465.27115 171.58529,402.19098 171.58529,402.19098 L 187.03338,401.30839 C 187.03338,401.30839 192.95486,464.98508 200.39283,496.16733 C 207.8308,527.34958 222.31286,544.60859 222.31286,544.60859 L 201.25105,530.58822 L 185.14968,535.85339 L 170.94303,528.19981 L 159.39753,535.47284 L 147.40101,530.12387 L 123.94548,545.08628 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-right.png"
+         sodipodi:nodetypes="cc"
+         id="path10010"
+         d="M 146.11919,548.99594 L 157.85172,517.07057"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-right.png"
+         id="path10012"
+         d="M 142.11413,548.99594 L 150.41033,548.99594 L 149.83818,555.57568 C 149.83818,555.57568 154.12931,551.57062 157.27614,551.57062 C 160.42298,551.57062 164.14196,555.2896 164.14196,555.2896 L 163.85589,558.43643 L 140.96983,558.15036 L 142.11413,548.99594 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-right.png"
+         sodipodi:nodetypes="cc"
+         id="path10016"
+         d="M 198.90955,547.65265 L 187.15056,515.10909"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-right.png"
+         id="path10018"
+         d="M 195.0795,547.44972 L 203.19507,545.72793 L 204.00093,552.28315 C 204.00093,552.28315 207.36742,547.47471 210.44573,546.82162 C 213.52406,546.16852 217.9339,549.03469 217.9339,549.03469 L 218.30715,552.17238 L 195.86003,556.6423 L 195.0795,547.44972 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-right.png"
+         sodipodi:nodetypes="csccsc"
+         id="path10034"
+         d="M 179.39776,409.07957 C 179.39776,409.07957 188.05091,429.02761 192.82451,441.98384 C 197.17195,453.7834 207.99922,468.5705 207.99922,468.5705 L 222.24181,465.34262 C 222.24181,465.34262 207.90959,449.10428 200.25324,439.39905 C 189.75405,426.09022 181.14929,409.57617 181.14929,409.57617"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-right.png"
+         sodipodi:nodetypes="cccsc"
+         id="path10036"
+         d="M 209.57968,468.43782 C 212.91457,474.36054 214.5482,485.46928 222.81022,483.96346 C 228.2971,482.74112 227.53821,475.0974 222.52391,469.52063 C 222.52391,469.52063 229.81649,474.86688 230.68225,473.01167 C 232.17631,469.81005 221.0459,465.78864 221.0459,465.78864"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-right.png"
+         sodipodi:nodetypes="csccsc"
+         id="path10040"
+         d="M 174.87397,404.09241 C 174.87397,404.09241 163.94935,422.89278 156.35155,434.42207 C 149.43204,444.92209 143.95183,462.41081 143.95183,462.41081 L 154.99997,471.96116 C 154.99997,471.96116 159.56906,450.78996 162.83955,438.86876 C 167.32438,422.52116 175.51334,405.79702 175.51334,405.79702"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-stride-right.png"
+         sodipodi:nodetypes="cccsc"
+         id="path10042"
+         d="M 144.99628,463.60437 C 142.20694,469.80274 134.23353,477.70828 140.34732,483.46589 C 144.5865,487.15768 150.28951,482.01199 151.80401,474.66693 C 151.80401,474.66693 151.82671,483.70926 153.83379,483.30556 C 157.29749,482.60887 153.93142,471.26306 153.93142,471.26306"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cscscsscsc"
+         id="path26211"
+         d="M 193.29234,364.18029 C 193.29234,364.18029 172.31964,358.69358 165.2772,366.17273 C 158.23476,373.65187 165.12258,394.09688 165.12258,394.09688 C 165.12258,394.09688 170.48389,400.42775 181.94524,399.8865 C 195.19305,399.25486 199.05952,383.74853 199.05952,383.74853 C 199.05952,383.74853 204.03864,385.5217 204.55751,384.92089 C 205.43941,383.89973 204.72675,382.67772 203.24665,379.7867 C 201.813,376.9864 199.05419,375.74489 199.05419,375.74489 C 199.05419,375.74489 199.38054,372.34725 196.61524,368.40449 C 193.46002,363.90579 193.29234,364.18029 193.29234,364.18029 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccc"
+         id="path26213"
+         d="M 142.82154,365.40801 L 211.20343,364.53018 L 185.45661,351.14046 L 160.21924,292.30096 L 163.71485,354.57337 L 142.82154,365.40801 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cccccccccc"
+         id="path26215"
+         d="M 180.41717,362.81554 L 150.42362,423.95624 L 158.49881,398.57708 L 147.53962,415.88105 L 151.57722,395.69308 L 127.92846,430.30102 L 144.07883,397.42349 L 129.65886,411.84346 L 162.5364,360.50834 L 180.41717,362.81554 z "
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         transform="translate(-73.748322,85.958113)"
+         d="M 264.73515 285.78342 A 0.50691271 0.50691271 0 1 1  263.72133,285.78342 A 0.50691271 0.50691271 0 1 1  264.73515 285.78342 z"
+         sodipodi:ry="0.50691271"
+         sodipodi:rx="0.50691271"
+         sodipodi:cy="285.78342"
+         sodipodi:cx="264.22824"
+         id="path26217"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-fly-left.png"
+         sodipodi:nodetypes="cs"
+         id="path26219"
+         d="M 184.20243,388.7972 C 184.20243,388.7972 189.3194,391.54574 192.87903,391.4172"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.94359231px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g27348"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-mouse-right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-mouse-right.png"
+         sodipodi:nodetypes="ccssc"
+         id="path21241"
+         d="M 120.05884,990.48949 C 57.870669,990.48949 57.870669,990.48949 57.870669,990.48949 C 57.870669,990.48949 50.938313,961.6794 81.259199,968.00748 C 94.188232,970.70582 105.88369,977.33649 112.00466,981.2688 C 119.39084,986.01392 120.05884,989.76594 120.05884,990.48949 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-mouse-right.png"
+         id="path21243"
+         d="M 95.168637,974.93919 C 95.168637,974.93919 83.968972,958.50529 99.393768,960.64433 C 113.76268,962.63694 103.31228,976.59214 102.46555,976.50281"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.64073145px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-mouse-right.png"
+         sodipodi:nodetypes="csc"
+         id="path21245"
+         d="M 59.575709,973.82472 C 59.575709,973.82472 59.587299,964.02644 38.416862,969.31905 C 17.246422,974.61166 14.600112,986.52003 14.600112,986.52003"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-mouse-right.png"
+         transform="translate(-159.79759,694.84776)"
+         d="M 264.73515 285.78342 A 0.50691271 0.50691271 0 1 1  263.72133,285.78342 A 0.50691271 0.50691271 0 1 1  264.73515 285.78342 z"
+         sodipodi:ry="0.50691271"
+         sodipodi:rx="0.50691271"
+         sodipodi:cy="285.78342"
+         sodipodi:cx="264.22824"
+         id="path21247"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="csc"
+         id="path26377"
+         d="M 75.748903,990.16469 C 75.748903,990.16469 77.37113,987.62968 73.142862,982.34657 C 70.601242,979.17088 68.278254,978.87185 68.278254,978.87185"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g27355"
+       transform="matrix(-1,0,0,1,131.95927,36.494731)"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-mouse-left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-mouse-right.png"
+         sodipodi:nodetypes="ccssc"
+         id="path27357"
+         d="M 120.05884,990.48949 C 57.870669,990.48949 57.870669,990.48949 57.870669,990.48949 C 57.870669,990.48949 50.938313,961.6794 81.259199,968.00748 C 94.188232,970.70582 105.88369,977.33649 112.00466,981.2688 C 119.39084,986.01392 120.05884,989.76594 120.05884,990.48949 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-mouse-right.png"
+         id="path27359"
+         d="M 95.168637,974.93919 C 95.168637,974.93919 83.968972,958.50529 99.393768,960.64433 C 113.76268,962.63694 103.31228,976.59214 102.46555,976.50281"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.64073145px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-mouse-right.png"
+         sodipodi:nodetypes="csc"
+         id="path27361"
+         d="M 59.575709,973.82472 C 59.575709,973.82472 59.587299,964.02644 38.416862,969.31905 C 17.246422,974.61166 14.600112,986.52003 14.600112,986.52003"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/witch-mouse-right.png"
+         transform="translate(-159.79759,694.84776)"
+         d="M 264.73515 285.78342 A 0.50691271 0.50691271 0 1 1  263.72133,285.78342 A 0.50691271 0.50691271 0 1 1  264.73515 285.78342 z"
+         sodipodi:ry="0.50691271"
+         sodipodi:rx="0.50691271"
+         sodipodi:cy="285.78342"
+         sodipodi:cx="264.22824"
+         id="path27363"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="csc"
+         id="path27365"
+         d="M 75.748903,990.16469 C 75.748903,990.16469 77.37113,987.62968 73.142862,982.34657 C 70.601242,979.17088 68.278254,978.87185 68.278254,978.87185"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g28344"
+       transform="translate(-65.299923,-26.958684)"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/puff1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="cscsczcscsc"
+         id="path27367"
+         d="M 528.82522,717.43954 C 528.82522,717.43954 520.01146,673.37078 481.23095,698.04929 C 442.45043,722.7278 486.5192,750.93181 486.5192,750.93181 C 486.5192,750.93181 427.72432,720.73065 445.97593,779.13582 C 463.60344,835.54385 497.0957,786.18682 497.0957,786.18682 C 487.92737,810.89095 461.78395,845.22694 521.77422,854.9341 C 581.46193,864.59231 558.79198,791.47508 558.79198,791.47508 C 558.79198,791.47508 605.44071,857.12325 636.35301,793.23783 C 662.79427,738.59255 579.94499,731.54155 579.94499,731.54155 C 579.94499,731.54155 639.87851,699.81204 586.99599,683.94728 C 526.58964,665.82537 527.06247,715.67679 528.82522,717.43954 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cscscsczc"
+         id="path28338"
+         d="M 549.95715,728.25889 C 549.95715,728.25889 581.10941,702.49837 595.48737,724.06532 C 609.86534,745.63227 563.73603,770.79371 563.73603,770.79371 C 563.73603,770.79371 593.69013,797.75239 567.33052,816.32393 C 540.97092,834.89547 520.60214,792.95974 520.60214,792.95974 C 520.60214,792.95974 506.82326,827.1074 484.65723,800.14872 C 462.4912,773.19003 501.43152,751.62309 501.43152,751.62309 C 501.43152,751.62309 487.94929,724.88145 505.6251,709.08827 C 523.3009,693.2951 549.95715,728.25889 549.95715,728.25889 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path28340"
+         d="M 555.34889,791.16249 C 555.34889,791.16249 583.50573,803.14413 587.69931,779.77994 C 591.89288,756.41574 566.13236,746.83043 566.13236,746.83043"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csc"
+         id="path28342"
+         d="M 508.62051,783.37443 C 508.62051,783.37443 472.67559,767.79829 475.671,743.83502 C 478.66641,719.87175 520.00306,727.65981 520.00306,727.65981"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g28356"
+       inkscape:export-filename="/Users/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/puff2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path28350"
+         d="M 641.61668,731.2543 C 641.61668,731.2543 626.04055,698.90388 651.80107,693.51215 C 677.56159,688.12041 687.1469,718.67359 687.1469,718.67359 C 687.1469,718.67359 710.51109,691.11582 721.89364,707.29103 C 733.2762,723.46624 702.12394,750.42492 702.12394,750.42492 C 702.12394,750.42492 731.47895,748.62768 717.70007,780.9781 C 703.92119,813.32852 670.3726,764.80289 670.3726,764.80289 C 670.3726,764.80289 660.18821,801.34688 632.03137,773.78912 C 603.87452,746.23135 641.01759,731.2543 641.61668,731.2543 z "
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1" />
+      <path
+         id="path28352"
+         d="M 666.17903,727.65981 C 666.17903,727.65981 672.76893,699.50297 687.74598,707.29103 C 702.72303,715.07909 695.53404,737.8442 695.53404,737.8442"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1" />
+      <path
+         id="path28354"
+         d="M 652.99923,754.01941 C 652.99923,754.01941 641.61668,766.60013 664.98087,779.18085 C 688.34506,791.76157 691.34047,764.80289 691.34047,764.80289"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 424.36712,941.42621 C 424.36712,941.42621 359.19708,1011.2838 460.46009,1011.2838 C 561.7231,1011.2838 496.76192,941.54606 496.76192,941.54606 C 500.83268,940.36212 500.5173,938.13386 496.44237,936.74105 L 424.20407,936.55973 C 420.22038,937.9034 420.20511,940.08253 424.36712,941.42621 z "
+       id="path1970"
+       sodipodi:nodetypes="cscccc"
+       inkscape:export-filename="/home/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/cauldron.png"
+       inkscape:export-xdpi="85.540001"
+       inkscape:export-ydpi="85.540001" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 426.06888,1003.6413 L 416.51577,1020.9567 L 424.15826,1020.8369 L 431.80075,1003.6413 L 426.06888,1003.6413 z "
+       id="path2845"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/cauldron.png"
+       inkscape:export-xdpi="85.540001"
+       inkscape:export-ydpi="85.540001" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 494.35034,1003.6026 L 503.90345,1020.918 L 496.26096,1020.7982 L 488.61847,1003.6026 L 494.35034,1003.6026 z "
+       id="path3720"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/cauldron.png"
+       inkscape:export-xdpi="85.540001"
+       inkscape:export-ydpi="85.540001" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 495.63438,941.24651 C 495.63438,941.24651 497.21566,907.95203 462.42499,908.246 C 427.63432,908.53996 424.82946,941.45538 424.82946,941.45538"
+       id="path3722"
+       sodipodi:nodetypes="czc"
+       inkscape:export-filename="/home/richard/src/pyglet.googlecode.com/trunk/examples/py24-witch/cauldron.png"
+       inkscape:export-xdpi="85.540001"
+       inkscape:export-ydpi="85.540001" />
+  </g>
+</svg>

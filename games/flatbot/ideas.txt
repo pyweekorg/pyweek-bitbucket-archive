@@ -1,0 +1,31 @@
+Robot friends living together
+Football
+
+Start at one end of level and have to kick the ball to the other end
+where the friend is waiting.
+
+Facial expressions
+
+Lasers to blast stuff  (blast walls but are only a toy to catbots)
+Sound to scare stuff (scare catbots but not walls)
+
+
+
+Saving of files from editing: "from tkFileDialog import asksaveasfilename"
+
+http://www.thomasperkins.blogspot.com/
+
+
+
+Cocos stuff
+-----------
+
+pyglet sprite attributes (x, y) don't work :(
+
+Organising a game with a tile map and some sprites took a while to figure out.
+
+Each "object" in the game with its own behaviour ended up being a whole layer.
+
+Clearly the ScrollingManager should be a Layer which has the Focus action
+applied to it and all the scrolled layers as sub-layers.
+

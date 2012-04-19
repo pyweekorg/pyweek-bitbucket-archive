@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<resource>
+ <imageatlas size="128x128" file="dirt-grass.png">
+  <image id="dgi-00" offset="0,0" /> <image id="dgi-01" offset="0,128" /> <image id="dgi-02" offset="0,256" /> <image id="dgi-03" offset="0,384" />
+  <image id="dgi-10" offset="128,0" /> <image id="dgi-11" offset="128,128" /> <image id="dgi-12" offset="128,256" /> <image id="dgi-13" offset="128,384" />
+  <image id="dgi-20" offset="256,0" /> <image id="dgi-21" offset="256,128" /> <image id="dgi-22" offset="256,256" /> <image id="dgi-23" offset="256,384" />
+  <image id="dgi-30" offset="384,0" /> <image id="dgi-31" offset="384,128" /> <image id="dgi-32" offset="384,256" /> <image id="dgi-33" offset="384,384" />
+ </imageatlas>
+
+ <tileset id="dirt-grass">
+  <tile id="dg-00">
+    <property name="left" value="True" type="bool" />
+    <property name="zap-target" value="True" type="bool" />
+  <image ref="dgi-00" /></tile>
+  <tile id="dg-01"><image ref="dgi-01" /></tile>
+  <tile id="dg-02">
+    <property name="left" value="True" type="bool" />
+   <image ref="dgi-02" /></tile>
+  <tile id="dg-03">
+    <property name="top" value="True" type="bool" />
+    <property name="left" value="True" type="bool" />
+    <image ref="dgi-03" /></tile>
+ 
+ <tile id="dg-10"><image ref="dgi-10" /></tile>
+ <tile id="dg-11"><image ref="dgi-11" /></tile>
+ <tile id="dg-12">
+    <property name="left" value="True" type="bool" />
+ <image ref="dgi-12" /></tile>
+ <tile id="dg-13"><property name="top" value="True" type="bool" /><image ref="dgi-13" /></tile>
+ 
+ <tile id="dg-20"><image ref="dgi-20" /></tile>
+ <tile id="dg-21"><image ref="dgi-21" /></tile>
+ <tile id="dg-22">
+    <property name="right" value="True" type="bool" />
+ <image ref="dgi-22" /></tile>
+ <tile id="dg-23"><property name="top" value="True" type="bool" /><image ref="dgi-23" /></tile>
+
+ 
+  <tile id="dg-30">
+    <image ref="dgi-30" />
+  </tile>
+  <tile id="dg-31">
+    <image ref="dgi-31" />
+  </tile>
+  <tile id="dg-32">
+    <property name="right" value="True" type="bool" />
+    <image ref="dgi-32" />
+  </tile>
+  <tile id="dg-33">
+    <property name="top" value="True" type="bool" />
+    <property name="right" value="True" type="bool" />
+    <image ref="dgi-33" />
+  </tile>
+ </tileset>
+
+ <imageatlas size="128x128" file="dirt-overlays.png">
+  <image id="goi-00" offset="0,0" /> <image id="goi-01" offset="0,128" /> <image id="goi-02" offset="0,256" /> <image id="goi-03" offset="0,384" />
+  <image id="goi-10" offset="128,0" /> <image id="goi-11" offset="128,128" /> <image id="goi-12" offset="128,256" /> <image id="goi-13" offset="128,384" />
+  <image id="goi-20" offset="256,0" /> <image id="goi-21" offset="256,128" /> <image id="goi-22" offset="256,256" /> <image id="goi-23" offset="256,384" />
+  <image id="goi-30" offset="384,0" /> <image id="goi-31" offset="384,128" /> <image id="goi-32" offset="384,256" /> <image id="goi-33" offset="384,384" />
+ </imageatlas>
+
+ <tileset id="ground-overlays">
+  <tile id="go-00"><image ref="goi-00" /></tile> <tile id="go-01"><image ref="goi-01" /></tile> <tile id="go-02"><image ref="goi-02" /></tile> <tile id="go-03"><image ref="goi-03" /></tile>
+  <tile id="go-10"><image ref="goi-10" /></tile> <tile id="go-11"><image ref="goi-11" /></tile> <tile id="go-12"><image ref="goi-12" /></tile> <tile id="go-13"><image ref="goi-13" /></tile>
+  <tile id="go-20"><image ref="goi-20" /></tile> <tile id="go-21"><image ref="goi-21" /></tile> <tile id="go-22"><image ref="goi-22" /></tile> <tile id="go-23"><image ref="goi-23" /></tile>
+  <tile id="go-30"><image ref="goi-30" /></tile> <tile id="go-31"><image ref="goi-31" /></tile> <tile id="go-32"><image ref="goi-32" /></tile> <tile id="go-33"><image ref="goi-33" /></tile>
+ </tileset>
+
+</resource>

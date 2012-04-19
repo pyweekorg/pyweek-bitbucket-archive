@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<resource>
+ <tileset id="level-tiles">
+    <tile id="tl" solid="yes">
+       <image file="level-tile-top-left.png" />
+       <property name="top" type="bool" value="True" />
+       <property name="left" type="bool" value="True" />
+    </tile>
+    <tile id="t" solid="yes">
+       <image file="level-tile-top.png" />
+       <property name="top" type="bool" value="True" />
+    </tile>
+    <tile id="tr" solid="yes">
+       <image file="level-tile-top-right.png" />
+       <property name="top" type="bool" value="True" />
+       <property name="right" type="bool" value="True" />
+    </tile>
+    <tile id="tlr" solid="yes">
+       <image file="level-tile-top-left-right.png" />
+       <property name="top" type="bool" value="True" />
+       <property name="left" type="bool" value="True" />
+       <property name="right" type="bool" value="True" />
+    </tile>
+    <tile id="empty">
+       <image file="level-tile-empty.png" />
+    </tile>
+ </tileset>
+</resource>
